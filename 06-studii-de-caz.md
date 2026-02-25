@@ -5,85 +5,97 @@
 ## HERO SECTION
 
 **Titlu:**
-Exemple reale de soluții livrate
+Câteva dintre proiectele livrate
 
 **Subtitlu:**
-Fiecare proiect rezolvă o problemă concretă de business. Iată câteva exemple din munca noastră.
+Fiecare proiect pornește de la o problemă reală de business. Iată o selecție din soluțiile pe care le-am construit.
 
 ---
 
-## STUDIU DE CAZ 1: Digitalizarea Proceselor Interne — Companie de Distribuție
+## Logistiq — Platformă de Management Logistic pentru Depozite
 
-**Problema:**
-O companie de distribuție cu peste 30 de angajați gestiona comenzile, livrările și stocurile prin combinații de Excel, email și telefon. Erorile erau frecvente, iar managementul nu avea vizibilitate în timp real asupra operațiunilor.
+**Contextul:**
+Companiile de logistică și depozitele din Europa gestionează zilnic zeci sau sute de șoferi care ajung pentru încărcare sau descărcare. Procesul de check-in era haotic — apeluri telefonice, foi de hârtie, cozi la poartă și zero vizibilitate pentru management asupra a ce se întâmplă în timp real.
 
 **Ce am construit:**
-O platformă centralizată care automatizează întregul flux — de la preluarea comenzii, la alocarea către șofer, până la confirmarea livrării. Dashboard pentru management cu statusuri live.
+O platformă completă de management logistic cu două componente principale:
+
+- **Dashboard de management** (aplicație web) — panou de control în timp real pentru manageri și dispeceri, cu vizualizare live a tuturor check-in-urilor, alocare către rampe/docuri, gestionare departamente, raportare și administrare completă
+- **Aplicație pentru șoferi** (web + mobilă) — interfață simplă prin care șoferul face check-in-ul la depozit, urmărește statusul în timp real și primește notificări când e rândul lui
+
+**Funcționalități cheie:**
+- Actualizare în timp real — statusurile se schimbă instant pe toate ecranele
+- Suport pentru 12 limbi — platformă folosită de șoferi din toată Europa
+- Arhitectură multi-tenant — fiecare depozit are spațiul și configurația proprie
+- Formulare personalizabile per organizație — fiecare client configurează ce informații cere de la șoferi
+- Check-in prin QR code — șoferul scanează și procesul pornește automat
+- Notificări push — șoferul e anunțat pe telefon când i se alocă rampa
+- Program de lucru configurabil — check-in-urile se restricționează automat în afara orelor de operare
+- Sistem de roluri — acces diferențiat pentru administratori, manageri de depozit și dispeceri
 
 **Rezultate:**
-- Timpii de procesare a comenzilor au scăzut cu aproximativ 60%
-- Erorile de livrare au fost eliminate aproape complet
-- Managementul are acum vizibilitate completă, fără să sune pe fiecare om
-
-**Timp de implementare:** Prima versiune funcțională — 6 săptămâni
+- Timpii de așteptare la poartă au scăzut semnificativ
+- Managementul are vizibilitate completă asupra operațiunilor, fără telefoane și întrebări
+- Erorile de alocare și comunicare au fost practic eliminate
+- Platforma funcționează activ în depozite din mai multe țări europene
 
 ---
 
-## STUDIU DE CAZ 2: Aplicație Mobilă pentru Echipe de Teren — Servicii Tehnice
+## Auto DRPCIV — Aplicație Mobilă de Servicii Auto
 
-**Problema:**
-O firmă de servicii tehnice trimitea echipele la intervenții cu informații primite pe WhatsApp. Rapoartele se făceau pe hârtie sau pe formulare trimise seara. Pierdere masivă de timp și informații.
+**Contextul:**
+Utilizatorii care au nevoie de informații și servicii legate de înmatriculări, permise de conducere și alte proceduri auto accesau un portal web care nu era optimizat pentru mobil. Experiența era greoaie, iar utilizatorii nu aveau un mod rapid de a accesa informațiile de pe telefon.
 
 **Ce am construit:**
-Aplicație mobilă prin care fiecare tehnician primește taskul direct pe telefon, cu toate detaliile necesare. La finalizare, completează raportul în aplicație — cu poze, semnătură client și status. Datele ajung instant la birou.
+Aplicație mobilă nativă pentru Android și iOS care oferă acces rapid și intuitiv la toate serviciile portalului, transformată într-o experiență mobilă completă.
+
+**Funcționalități cheie:**
+- Acces instant la servicii DRPCIV direct de pe telefon
+- Notificări push — utilizatorul e anunțat despre noutăți, schimbări legislative sau statusul procedurilor
+- Interfață nativă optimizată — navigare rapidă, swipe to refresh, meniu lateral intuitiv
+- Funcționează pe Android și iOS — acoperire completă
+- Suport pentru fișiere și documente — upload direct din aplicație
+- Integrare GPS — localizare automată pentru servicii bazate pe zonă
 
 **Rezultate:**
-- Raportarea a trecut de la "a doua zi" la "instantaneu"
-- Managerii văd în timp real cine e unde și ce face
-- S-au eliminat complet rapoartele pe hârtie
-
-**Timp de implementare:** Aplicație funcțională — 4 săptămâni
+- Acces mobil instant pentru mii de utilizatori
+- Notificările push mențin utilizatorii informați și cresc rata de revenire
+- Experiența de utilizare s-a îmbunătățit semnificativ față de varianta web pe mobil
+- Aplicația este publicată și activă în App Store și Google Play
 
 ---
 
-## STUDIU DE CAZ 3: Aplicație Mobilă pentru Magazin Online — eCommerce Fashion
+## Listiq — Aplicație Mobilă de Shopping Lists
 
-**Problema:**
-Un magazin online de fashion cu trafic predominant de pe mobil (peste 70%) avea rata de conversie scăzută pe site-ul responsive. Clienții abandonau coșul frecvent, iar comunicarea prin email avea rată mică de deschidere.
-
-**Ce am construit:**
-Aplicație mobilă conectată la magazinul WooCommerce existent, cu sincronizare completă a produselor, conturilor și comenzilor. Notificări push pentru oferte și produse noi. Wishlist și checkout rapid.
-
-**Rezultate:**
-- Rata de revenire a clienților a crescut semnificativ
-- Notificările push au avut rată de interacțiune de peste 5x față de email
-- Valoarea medie a comenzii din aplicație este mai mare decât cea din site
-
-**Timp de implementare:** Lansare în store — 3 săptămâni
-
----
-
-## STUDIU DE CAZ 4: MVP pentru Startup — Platformă de Rezervări
-
-**Problema:**
-Un antreprenor avea o idee de platformă de rezervări pentru un sector de nișă. Estimările primite de la agenții erau de 4-6 luni și bugete mari. Avea nevoie de o versiune funcțională rapidă pentru a testa piața.
+**Contextul:**
+Aplicațiile de liste de cumpărături existente pe piață sunt fie prea simple (nu fac mai mult decât un notes), fie prea complicate și încărcate. Lipsea o aplicație care să fie practică, rapidă și cu funcționalități reale utile — liste partajate, carduri de fidelitate, catalog de produse și sincronizare între dispozitive.
 
 **Ce am construit:**
-MVP cu funcționalitățile esențiale: listare servicii, sistem de rezervări, conturi utilizatori, panel de administrare. Lansat într-un timp scurt pentru testare cu primii utilizatori.
+O aplicație mobilă completă de gestionare a listelor de cumpărături, disponibilă pe Android, iOS și web — cu design modern și funcționalități care simplifică real procesul de shopping.
+
+**Funcționalități cheie:**
+- Liste multiple cu culori, descrieri și status de completare
+- Catalog cu peste 500 de produse predefinite, organizate pe categorii
+- Sugestii inteligente bazate pe istoricul de cumpărături
+- Carduri de fidelitate — stochezi toate cardurile de magazin într-un singur loc, cu generare QR/barcode pentru scanare rapidă la casă
+- Sincronizare în timp real între dispozitive — lista se actualizează instant
+- Sistem de feedback integrat — utilizatorii pot raporta buguri sau sugera funcționalități
+- Suport pentru română și engleză
+- Mod dark / light cu Material Design 3
+- Gesturi intuitive — swipe pentru completare, long-press pentru reordonare
 
 **Rezultate:**
-- Platforma a fost lansată și testată cu utilizatori reali
-- Feedback-ul a permis pivotarea modelului înainte de investiția mare
-- Se dezvoltă în continuare pe baza datelor reale
-
-**Timp de implementare:** MVP funcțional — 5 săptămâni
+- Aplicație publicată și activă pe multiple platforme
+- Utilizatorii au acces instant la liste sincronizate pe orice dispozitiv
+- Funcționalitatea de carduri de fidelitate a eliminat nevoia de a căra carduri fizice
+- Rating pozitiv și feedback constant de la utilizatori
 
 ---
 
 ## SECȚIUNE CONCLUZIE
 
-Fiecare proiect este diferit, dar abordarea rămâne aceeași:
-înțelegem problema → construim soluția potrivită → livrăm rapid → evoluăm împreună.
+Acestea sunt doar câteva dintre proiectele pe care le-am livrat.
+Fiecare colaborare pornește de la o problemă concretă și se termină cu o soluție funcțională, testată și gata de utilizare.
 
 ---
 
@@ -93,12 +105,7 @@ Fiecare proiect este diferit, dar abordarea rămâne aceeași:
 Ai o provocare similară?
 
 **Text:**
-Hai să analizăm ce soluție ar funcționa pentru situația ta concretă.
+Hai să analizăm ce soluție ar funcționa pentru situația ta concretă. Fiecare proiect este diferit — dar abordarea noastră rămâne aceeași: înțelegem problema, construim soluția, livrăm rapid.
 
 **Buton:**
 Discută proiectul tău cu noi
-
----
-
-## NOTĂ PENTRU IMPLEMENTARE
-Studiile de caz sunt generalizate/anonimizate. Pe măsură ce se acumulează proiecte reale, se pot actualiza cu detalii mai specifice, screenshots ale aplicațiilor și (ideal) testimoniale de la clienți.

@@ -88,6 +88,7 @@ După lansarea primei versiuni:
 - **Prioritizăm dezvoltarea** — pe baza datelor reale, nu a presupunerilor
 - **Adăugăm funcționalități** — iterativ, cu impact măsurabil
 - **Scalăm** — când produsul validează cererea, infrastructura crește odată cu el
+- **Menținem** — actualizări, securitate și suport tehnic continuu, ca produsul să rămână stabil pe măsură ce crește
 
 ---
 

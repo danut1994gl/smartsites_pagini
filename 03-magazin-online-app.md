@@ -77,6 +77,8 @@ Această soluție funcționează ideal pentru magazine care:
 5. **Publicăm în store** — listing optimizat, screenshots, descriere
 6. **Lansare și suport** — monitorizare și îmbunătățiri continue
 
+**După lansare**, oferim mentenanță continuă: actualizări de compatibilitate cu WooCommerce și versiunile noi de Android/iOS, monitorizare funcționare și suport tehnic. Aplicația ta rămâne sincronizată și funcțională fără intervenție din partea ta.
+
 ---
 
 ## CTA FINAL

@@ -73,7 +73,7 @@ Fiecare soluție este construită pentru utilizare zilnică reală, nu pentru de
 - Vor control real asupra datelor și fluxurilor operaționale
 - Caută digitalizare concretă, nu doar un alt abonament la un tool
 
-**Industrii frecvente:** logistică, distribuție, servicii, producție, retail, agenții, companii de construcții, firme de consultanță.
+**Industrii frecvente:** logistică, distribuție, servicii, producție, agenții, companii de construcții, firme de consultanță.
 
 ---
 
@@ -86,6 +86,8 @@ Fiecare soluție este construită pentru utilizare zilnică reală, nu pentru de
 5. **Suport continuu** — Sistemul crește odată cu firma ta
 
 [Mai multe detalii despre procesul de colaborare →]
+
+**Toate proiectele includ o perioadă de suport post-lansare.** După aceea, oferim mentenanță continuă — actualizări, securitate și asistență — astfel încât sistemul să funcționeze fără probleme pe termen lung.
 
 ---
 

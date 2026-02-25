@@ -85,6 +85,9 @@ Da. Putem dezvolta o singură aplicație care funcționează pe ambele platforme
 **Cine se ocupă de publicarea în store?**
 Noi. Gestionăm întregul proces de publicare în App Store și Google Play.
 
+**Ce se întâmplă după lansare?**
+Toate proiectele includ o perioadă de suport post-lansare. Apoi oferim mentenanță continuă — actualizări de compatibilitate cu versiunile noi de Android și iOS, securitate și asistență tehnică. Aplicația ta rămâne funcțională și actualizată pe termen lung.
+
 ---
 
 ## CTA FINAL

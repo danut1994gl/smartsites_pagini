@@ -26,7 +26,59 @@ Fără suport activ, chiar și cel mai bun software devine o problemă în timp.
 
 ---
 
-## SECȚIUNE: Ce Include Suportul
+## SECȚIUNE: Cum Este Structurat Suportul
+
+Fiecare proiect include o perioadă de suport post-lansare, astfel încât tranziția să fie lină și fără griji.
+
+**Structura standard:**
+
+**1. Dezvoltare + Lansare + Perioadă de suport inclusă (până la 3 luni)**
+În această perioadă rezolvăm orice problemă apărută după lansare, facem ajustări și ne asigurăm că totul funcționează corect în utilizarea reală.
+
+↓
+
+**2. Plan lunar de mentenanță continuă**
+După perioada inclusă, trecem pe un plan lunar de mentenanță adaptat proiectului tău. Costul mentenanței se stabilește în funcție de complexitatea proiectului și de nevoile reale de utilizare — nu există un tarif unic. Condițiile se discută transparent înainte de începerea proiectului, astfel încât să știi exact la ce te aștepți.
+
+---
+
+## SECȚIUNE: Ce Include Mentenanța Lunară
+
+- Rezolvare buguri și probleme tehnice
+- Actualizări de securitate
+- Compatibilitate cu versiuni noi de sisteme de operare (iOS / Android) și platforme (WooCommerce, browsere etc.)
+- Monitorizare funcționare și performanță
+- Backup-uri și protecția datelor
+- Mici ajustări și optimizări curente
+
+---
+
+## SECȚIUNE: Ce NU Include Mentenanța (se discută și se estimează separat)
+
+- Funcționalități noi majore
+- Redesign sau modificări semnificative de interfață
+- Integrări cu sisteme sau platforme noi
+- Schimbări de arhitectură sau de scop al aplicației
+
+Acestea sunt proiecte în sine și se estimează separat, la fel de transparent ca proiectul inițial.
+
+---
+
+## SECȚIUNE: De Ce Este Important Să Știi Asta de la Început
+
+Nu vrem surprize — nici noi, nici tu.
+
+De aceea clarificăm din prima discuție:
+- Ce include proiectul
+- Ce include perioada de suport post-lansare
+- Ce presupune mentenanța ulterioară
+- Ce se facturează separat și în ce condiții
+
+Așa începi colaborarea cu o imagine completă, nu doar cu un preț de dezvoltare.
+
+---
+
+## SECȚIUNE: Ce Include Suportul (detaliat)
 
 **Mentenanță tehnică**
 - Monitorizare funcționare și performanță
