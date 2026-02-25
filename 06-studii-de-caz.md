@@ -5,10 +5,10 @@
 ## HERO SECTION
 
 **Titlu:**
-Câteva dintre proiectele livrate
+O selecție din proiectele livrate
 
 **Subtitlu:**
-Fiecare proiect pornește de la o problemă reală de business. Iată o selecție din soluțiile pe care le-am construit.
+Am construit soluții pentru companii din industrii diferite, cu nevoi diferite. Iată câteva dintre ele.
 
 ---
 
@@ -39,29 +39,42 @@ O platformă completă de management logistic cu două componente principale:
 - Erorile de alocare și comunicare au fost practic eliminate
 - Platforma funcționează activ în depozite din mai multe țări europene
 
+**Linkuri:**
+- Website: [cloud.logistiq.ro](https://cloud.logistiq.ro)
+- Aplicație șoferi (web): [qrgo.ro](https://qrgo.ro)
+- Aplicație mobilă Android: [Google Play](https://play.google.com/store/apps/details?id=ro.qrgo.driver)
+- Aplicație mobilă iOS: [App Store](https://apps.apple.com/app/qrgo/id6499024752)
+
 ---
 
-## Auto DRPCIV — Aplicație Mobilă de Servicii Auto
+## Auto DRPCIV — Aplicație Mobilă de Chestionare Auto și Educație Rutieră
 
 **Contextul:**
-Utilizatorii care au nevoie de informații și servicii legate de înmatriculări, permise de conducere și alte proceduri auto accesau un portal web care nu era optimizat pentru mobil. Experiența era greoaie, iar utilizatorii nu aveau un mod rapid de a accesa informațiile de pe telefon.
+Pregătirea pentru examenul de permis auto în România înseamnă de obicei cărți groase, PDF-uri greu de navigat și site-uri neoptimizate pentru telefon. Candidații aveau nevoie de un mod rapid și accesibil de a exersa chestionarele oficiale DRPCIV oriunde s-ar afla — în autobuz, în pauza de la muncă, acasă.
 
 **Ce am construit:**
-Aplicație mobilă nativă pentru Android și iOS care oferă acces rapid și intuitiv la toate serviciile portalului, transformată într-o experiență mobilă completă.
+Aplicație mobilă nativă pentru Android și iOS dedicată pregătirii pentru examenul auto, cu chestionare interactive, răspunsuri explicate și conținut educativ actualizat. Aplicația a ajuns printre cele mai populare din categoria Educație pe Google Play.
 
 **Funcționalități cheie:**
-- Acces instant la servicii DRPCIV direct de pe telefon
-- Notificări push — utilizatorul e anunțat despre noutăți, schimbări legislative sau statusul procedurilor
-- Interfață nativă optimizată — navigare rapidă, swipe to refresh, meniu lateral intuitiv
-- Funcționează pe Android și iOS — acoperire completă
-- Suport pentru fișiere și documente — upload direct din aplicație
-- Integrare GPS — localizare automată pentru servicii bazate pe zonă
+- Chestionare interactive pentru toate categoriile de permis — B, A, C, D, E, Tr (tractor)
+- Chestionare pentru redobândire permis și atestări profesionale (ARR, transport marfă, taxi)
+- Răspunsuri explicate la fiecare întrebare — nu doar corect/greșit, ci de ce
+- Codul Rutier actualizat — legislație la zi, inclusiv modificările din 2026
+- Notificări push — reamintiri de studiu și noutăți legislative
+- Urmărire progres — utilizatorul vede cât a parcurs și unde mai are de lucrat
+- Interfață nativă optimizată — navigare rapidă, intuitivă, adaptată pentru studiu pe mobil
+- Disponibilă pe Android și iOS
 
 **Rezultate:**
-- Acces mobil instant pentru mii de utilizatori
-- Notificările push mențin utilizatorii informați și cresc rata de revenire
-- Experiența de utilizare s-a îmbunătățit semnificativ față de varianta web pe mobil
-- Aplicația este publicată și activă în App Store și Google Play
+- Printre cele mai populare aplicații din categoria Educație pe Google Play
+- Mii de utilizatori activi care se pregătesc zilnic pentru examen
+- Rating pozitiv în App Store și Google Play
+- Notificările push mențin utilizatorii activi și cresc rata de revenire la studiu
+- Platforma acoperă toate categoriile de permis, nu doar categoria B
+
+**Linkuri:**
+- Android: [Google Play](https://play.google.com/store/apps/details?id=com.autodrpciv.ro)
+- iOS: [App Store](https://apps.apple.com/us/app/auto-drpciv-chestionare-auto/id6720707771)
 
 ---
 
@@ -90,12 +103,17 @@ O aplicație mobilă completă de gestionare a listelor de cumpărături, dispon
 - Funcționalitatea de carduri de fidelitate a eliminat nevoia de a căra carduri fizice
 - Rating pozitiv și feedback constant de la utilizatori
 
+**Linkuri:**
+- Android: [Google Play](https://play.google.com/store/apps/details?id=com.listiq)
+- iOS: [App Store](https://apps.apple.com/app/grocery-shopping-list-listiq/id6670171532)
+
 ---
 
-## SECȚIUNE CONCLUZIE
+## Și Multe Altele
 
-Acestea sunt doar câteva dintre proiectele pe care le-am livrat.
-Fiecare colaborare pornește de la o problemă concretă și se termină cu o soluție funcțională, testată și gata de utilizare.
+Proiectele de mai sus sunt doar o parte din portofoliul nostru. Am dezvoltat soluții software custom, aplicații mobile și platforme pentru companii din domenii variate — logistică, servicii, eCommerce, educație și nu numai.
+
+Fiecare proiect a pornit de la o nevoie reală și s-a transformat într-o soluție funcțională, folosită zilnic.
 
 ---
 
@@ -105,7 +123,7 @@ Fiecare colaborare pornește de la o problemă concretă și se termină cu o so
 Ai o provocare similară?
 
 **Text:**
-Hai să analizăm ce soluție ar funcționa pentru situația ta concretă. Fiecare proiect este diferit — dar abordarea noastră rămâne aceeași: înțelegem problema, construim soluția, livrăm rapid.
+Indiferent de industrie sau de complexitate, putem analiza situația ta concretă și propune o direcție clară. Exact cum am făcut în proiectele de mai sus — și în cele pe care nu le-am prezentat aici.
 
 **Buton:**
 Discută proiectul tău cu noi
