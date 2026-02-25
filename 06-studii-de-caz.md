@@ -40,7 +40,7 @@ O platformă completă de management logistic cu două componente principale:
 - Platforma funcționează activ în depozite din mai multe țări europene
 
 **Linkuri:**
-- Website: [cloud.logistiq.ro](https://cloud.logistiq.ro)
+- Website: [logistiq.ro](https://logistiq.ro)
 - Aplicație șoferi (web): [qrgo.ro](https://qrgo.ro)
 - Aplicație mobilă Android: [Google Play](https://play.google.com/store/apps/details?id=ro.qrgo.driver)
 - Aplicație mobilă iOS: [App Store](https://apps.apple.com/app/qrgo/id6499024752)
