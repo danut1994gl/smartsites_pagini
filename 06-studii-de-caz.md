@@ -74,7 +74,7 @@ Aplicație mobilă nativă pentru Android și iOS dedicată pregătirii pentru e
 
 **Linkuri:**
 - Android: [Google Play](https://play.google.com/store/apps/details?id=com.autodrpciv.ro)
-- iOS: [App Store](https://apps.apple.com/us/app/auto-drpciv-chestionare-auto/id6720707771)
+- iOS: [App Store](https://apps.apple.com/us/app/chestionare-auto-drpciv/id6720707771)
 
 ---
 
