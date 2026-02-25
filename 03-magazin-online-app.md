@@ -58,6 +58,8 @@ Totul rămâne sincronizat automat. Administrezi din același loc ca până acum
 
 ## SECȚIUNE: Pentru Cine Este Potrivit
 
+Aplicația și datele sunt găzduite pe infrastructură cloud securizată, cu backup automat și uptime 99.9%.
+
 Această soluție funcționează ideal pentru magazine care:
 
 - Au deja vânzări constante și vor să crească retenția

@@ -54,6 +54,7 @@ Extensii mobile care se integrează cu platformele și bazele de date pe care le
 - Design UI/UX adaptat platformei (Android / iOS)
 - Integrare cu sisteme existente (ERP, CRM, platforme web)
 - Publicare în App Store și Google Play
+- Găzduire pe infrastructură cloud securizată — uptime 99.9% și backup automat
 - Testare în condiții reale de utilizare
 - Documentație și training pentru echipă
 - Suport post-lansare și dezvoltări ulterioare

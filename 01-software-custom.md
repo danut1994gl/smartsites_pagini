@@ -89,6 +89,8 @@ Fiecare soluție este construită pentru utilizare zilnică reală, nu pentru de
 
 **Toate proiectele includ o perioadă de suport post-lansare.** După aceea, oferim mentenanță continuă — actualizări, securitate și asistență — astfel încât sistemul să funcționeze fără probleme pe termen lung.
 
+Aplicațiile sunt găzduite pe infrastructură cloud securizată, cu uptime 99.9%, backup automat și protecția datelor — soluția optimă pentru performanță, scalabilitate și siguranță.
+
 ---
 
 ## CTA FINAL

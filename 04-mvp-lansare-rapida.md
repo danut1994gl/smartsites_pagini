@@ -58,7 +58,7 @@ Nu înseamnă:
 Înseamnă:
 - **Definim funcționalitățile esențiale** — doar ce aduce valoare imediată, fără "nice to have"
 - **Construim o aplicație reală** — nu un mockup, nu un wireframe, ci un produs utilizabil
-- **Lansăm în producție** — utilizatorii pot folosi aplicația din prima zi
+- **Lansăm în producție** — pe infrastructură cloud securizată, gata de utilizare din prima zi
 - **Iterăm pe baza datelor** — dezvoltăm în continuare ce contează, eliminăm ce nu funcționează
 
 ---
