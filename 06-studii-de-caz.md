@@ -53,7 +53,7 @@ O platformă completă de management logistic cu două componente principale:
 Pregătirea pentru examenul de permis auto în România înseamnă de obicei cărți groase, PDF-uri greu de navigat și site-uri neoptimizate pentru telefon. Candidații aveau nevoie de un mod rapid și accesibil de a exersa chestionarele oficiale DRPCIV oriunde s-ar afla — în autobuz, în pauza de la muncă, acasă.
 
 **Ce am construit:**
-Aplicație mobilă nativă pentru Android și iOS dedicată pregătirii pentru examenul auto, cu chestionare interactive, răspunsuri explicate și conținut educativ actualizat. Aplicația a ajuns printre cele mai populare din categoria Educație pe Google Play.
+Aplicație mobilă nativă pentru Android și iOS dedicată pregătirii pentru examenul auto, cu chestionare, răspunsuri explicate și conținut educativ actualizat. Aplicația a ajuns printre cele mai populare din categoria Educație pe Google Play.
 
 **Funcționalități cheie:**
 - Chestionare interactive pentru toate categoriile de permis — B, A, C, D, E, Tr (tractor)
